@@ -59,6 +59,7 @@ platform_do_upgrade() {
 	netgear,rax120v2|\
 	netgear,sxr80|\
 	netgear,sxs80|\
+ 	tplink,tl-er2260t|\
 	netgear,wax218|\
 	netgear,wax620|\
 	netgear,wax630)
